@@ -1,7 +1,7 @@
 /* #119ee6 */
 /* Google Font */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&family=Tai+Heritage+Pro&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi&display=swap");
 
 * {
   margin: 0;
@@ -9,6 +9,21 @@
 }
 section {
   padding: 60px 0;
+}
+.logo {
+  font-family: "Tiro Devanagari Hindi", serif;
+}
+.logo i,
+span {
+  color: #119ee6;
+}
+.nav-item .active {
+  border-top: 2px solid #119ee6;
+  color: #119ee6 !important;
+}
+h2,
+h3 {
+  font-family: "Tiro Devanagari Hindi", sans-serif;
 }
 .service {
   background: #119ee6;
@@ -35,7 +50,7 @@ section {
 .search {
   background: black;
   color: white;
-  font-family: "Merriweather", sans-serif;
+  font-family: "Tiro Devanagari Hindi", serif;
 }
 .input-box {
   width: 40vw;
