@@ -57,7 +57,7 @@ h3 {
   height: 50px;
   display: flex;
   justify-content: center;
-  border: 5px solid #119ee6;
+  border: 7px solid #119ee6;
 }
 .input-box input {
   width: 75%;
