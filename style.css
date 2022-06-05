@@ -115,10 +115,30 @@ h4 {
   background: white;
   color: black;
 }
+.services {
+  color: black;
+}
+.services .nav .nav-link {
+  color: gray;
+}
+.services .nav .active {
+  color: #119ee6;
+}
+.services-link {
+  text-decoration: none;
+  color: black;
+}
+.services-link:hover {
+  color: #119ee6;
+}
 
 .tst {
   border-left: 1px solid #119ee6;
   font-size: 14px;
+}
+.tst-icon:hover {
+  cursor: pointer;
+  color: #119ee6;
 }
 .contact {
   background: #119ee6;
