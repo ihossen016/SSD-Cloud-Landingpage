@@ -111,3 +111,65 @@ h4 {
 .divider {
   color: #119ee6;
 }
+.tab-content {
+  background: white;
+  color: black;
+}
+
+.contact {
+  background: #119ee6;
+  color: white;
+}
+.footer {
+  background: black;
+  color: white;
+}
+.bottom-logo {
+  font-family: "Tiro Devanagari Hindi", sans-serif;
+  color: white;
+}
+.bottom-logo i {
+  color: #119ee6;
+}
+.bottom-link {
+  text-decoration: none;
+}
+.bottom-icon:hover {
+  color: #119ee6;
+  cursor: pointer;
+}
+.bottom-service li {
+  list-style: none;
+  font-size: 14px;
+}
+.bottom-service li:hover {
+  color: #119ee6;
+  cursor: pointer;
+}
+.email-box {
+  width: 100%;
+  display: flex;
+  background: white;
+  border: 5px solid white;
+}
+.email-box input {
+  width: 70%;
+  background: white;
+  color: black;
+  padding-left: 10px;
+  font-size: 14px;
+  border: none;
+  outline: none;
+}
+.email-box button {
+  width: 30%;
+  background: #119ee6;
+  color: white;
+  font-size: 14px;
+  border-radius: 0;
+}
+.footer-bottom {
+  background: black;
+  color: white;
+  border-top: 1px solid gray;
+}
