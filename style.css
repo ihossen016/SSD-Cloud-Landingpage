@@ -85,6 +85,9 @@ h4 {
   color: #119ee6;
   border-bottom: 1px solid #119ee6;
 }
+.pricing {
+  color: black;
+}
 .card-title {
   background: black;
   color: white;
@@ -131,7 +134,26 @@ h4 {
 .services-link:hover {
   color: #119ee6;
 }
-
+.choose-us {
+  background: white;
+  color: black;
+}
+.choose-text {
+  background: #119ee6;
+  color: white;
+  transition: 0.4s all ease-in-out;
+}
+.choose-text:hover {
+  background: black;
+}
+.num-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.num-text h4 {
+  opacity: 0.2;
+}
 .tst {
   border-left: 1px solid #119ee6;
   font-size: 14px;
