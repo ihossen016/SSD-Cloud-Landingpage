@@ -85,3 +85,22 @@ h4 {
   color: #119ee6;
   border-bottom: 1px solid #119ee6;
 }
+.card-title {
+  background: black;
+  color: white;
+}
+.card-rm {
+  background: #119ee6;
+  color: white;
+}
+.card-icon {
+  color: #119ee6;
+}
+.card-btn {
+  background: #119ee6;
+  color: white;
+}
+.card-btn:hover {
+  background: black;
+  color: white;
+}
